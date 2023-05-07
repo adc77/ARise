@@ -1,2 +1,2 @@
 # ARise
-Image Detection AR app for Android using Unity 
+Image Detection Augmented Reality app for Android using Unity 
