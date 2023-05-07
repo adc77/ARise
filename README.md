@@ -25,15 +25,18 @@ To connect with us, reach out to me at amandogra2016@gmail.com or on Twitter @do
 
 **3D Model of a Shoe in AR**
 
-![WhatsApp Image 2023-05-07 at 11 59 55](https://user-images.githubusercontent.com/118567905/236661691-82aaebc8-c884-40a7-b11d-549eab78fe34.jpg)
+![WhatsApp Image 2023-05-07 at 11 59 55](https://user-images.githubusercontent.com/118567905/236661691-82aaebc8-c884-40a7-b11d-549eab78fe34.jpg) <br>
 
 
 **Virus in AR**
 
-![WhatsApp Image 2023-05-07 at 11 59 56](https://user-images.githubusercontent.com/118567905/236661738-6cdfc9f1-c4b2-4c65-9e23-d1b6a49b38ab.jpg)
+![WhatsApp Image 2023-05-07 at 11 59 56](https://user-images.githubusercontent.com/118567905/236661738-6cdfc9f1-c4b2-4c65-9e23-d1b6a49b38ab.jpg) <br>
 
 
 **Car in AR**
 
-![WhatsApp Image 2023-05-07 at 11 59 57](https://user-images.githubusercontent.com/118567905/236661772-aba7a18f-a14e-420e-a96a-ace954d741cb.jpg)
+![WhatsApp Image 2023-05-07 at 11 59 57](https://user-images.githubusercontent.com/118567905/236661772-aba7a18f-a14e-420e-a96a-ace954d741cb.jpg) <br>
 
+
+
+### Check Out the MP4 file in the repo for the Demo & the presentation!
