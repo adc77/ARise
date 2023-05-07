@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5527182265752493392
+  m_GuidHigh: 2619687271915412355
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5223905608154315940
+      m_GuidHigh: 9901268294121219458
+    m_SerializedTextureGuid:
+      m_GuidLow: 17650977718175739334
+      m_GuidHigh: 4372332707157657497
+    m_Size: {x: 0.06, y: 0.03479212}
+    m_SpecifySize: 1
+    m_Name: Car_01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5273748744558791457
+      m_GuidHigh: 12260592910854880384
+    m_SerializedTextureGuid:
+      m_GuidLow: 8684090413024283499
+      m_GuidHigh: 16702858988499121080
+    m_Size: {x: 0.1, y: 0.0740944}
+    m_SpecifySize: 1
+    m_Name: Couch
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5382654095350231691
+      m_GuidHigh: 14281672086160174214
+    m_SerializedTextureGuid:
+      m_GuidLow: 4919226802765532458
+      m_GuidHigh: 15910200191662006041
+    m_Size: {x: 0.14222223, y: 0.08}
+    m_SpecifySize: 1
+    m_Name: Tomb
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5328110122874902442
+      m_GuidHigh: 13929655741729709452
+    m_SerializedTextureGuid:
+      m_GuidLow: 10332482364019833609
+      m_GuidHigh: 12323099951786542107
+    m_Size: {x: 0.06, y: 0.043073684}
+    m_SpecifySize: 1
+    m_Name: Virus
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5037350236290400084
+      m_GuidHigh: 1504433820167299980
+    m_SerializedTextureGuid:
+      m_GuidLow: 4572466474820285256
+      m_GuidHigh: 16620865522294307464
+    m_Size: {x: 0.06, y: 0.06913319}
+    m_SpecifySize: 1
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5434151878001259879
+      m_GuidHigh: 11160774136976501679
+    m_SerializedTextureGuid:
+      m_GuidLow: 11931243885178575660
+      m_GuidHigh: 5646244765312393480
+    m_Size: {x: 0.06, y: 0.054297186}
+    m_SpecifySize: 1
+    m_Name: Dino
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5641890697743246498
+      m_GuidHigh: 17757097341003256471
+    m_SerializedTextureGuid:
+      m_GuidLow: 14989368671275212394
+      m_GuidHigh: 10745476388857437881
+    m_Size: {x: 0.06, y: 0.046458714}
+    m_SpecifySize: 1
+    m_Name: Shoe
+    m_Texture: {fileID: 0}
